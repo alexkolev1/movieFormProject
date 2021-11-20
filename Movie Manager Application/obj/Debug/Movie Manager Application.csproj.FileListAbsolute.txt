@@ -1,0 +1,23 @@
+C:\Users\sumee\source\repos\Movie Manager Application\bin\Debug\Movie Manager Application.exe.config
+C:\Users\sumee\source\repos\Movie Manager Application\bin\Debug\Movie Manager Application.exe
+C:\Users\sumee\source\repos\Movie Manager Application\bin\Debug\Movie Manager Application.pdb
+C:\Users\sumee\source\repos\Movie Manager Application\obj\Debug\Movie Manager Application.csproj.AssemblyReference.cache
+C:\Users\sumee\source\repos\Movie Manager Application\obj\Debug\Movie_Manager_Application.Form1.resources
+C:\Users\sumee\source\repos\Movie Manager Application\obj\Debug\Movie_Manager_Application.Properties.Resources.resources
+C:\Users\sumee\source\repos\Movie Manager Application\obj\Debug\Movie Manager Application.csproj.GenerateResource.cache
+C:\Users\sumee\source\repos\Movie Manager Application\obj\Debug\Movie Manager Application.csproj.CoreCompileInputs.cache
+C:\Users\sumee\source\repos\Movie Manager Application\obj\Debug\Movie Manager Application.exe
+C:\Users\sumee\source\repos\Movie Manager Application\obj\Debug\Movie Manager Application.pdb
+C:\Users\sumee\source\repos\Movie Manager Application\obj\Debug\Movie_Manager_Application.AboutBox1.resources
+C:\Users\Alex\Desktop\gg\Movie Manager Application\obj\Debug\Movie Manager Application.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\gg\Movie Manager Application\obj\Debug\Movie_Manager_Application.AboutBox1.resources
+C:\Users\Alex\Desktop\gg\Movie Manager Application\obj\Debug\Movie_Manager_Application.Form1.resources
+C:\Users\Alex\Desktop\gg\Movie Manager Application\obj\Debug\Movie_Manager_Application.Properties.Resources.resources
+C:\Users\Alex\Desktop\gg\Movie Manager Application\obj\Debug\Movie Manager Application.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\gg\Movie Manager Application\obj\Debug\Movie Manager Application.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\gg\Movie Manager Application\obj\Debug\Movie Manager Application.exe
+C:\Users\Alex\Desktop\gg\Movie Manager Application\obj\Debug\Movie Manager Application.pdb
+C:\Users\Alex\Desktop\gg\Movie Manager Application\bin\Debug\Movie Manager Application.exe.config
+C:\Users\Alex\Desktop\gg\Movie Manager Application\bin\Debug\Movie Manager Application.exe
+C:\Users\Alex\Desktop\gg\Movie Manager Application\bin\Debug\Movie Manager Application.pdb
+C:\Users\Alex\Desktop\gg\Movie Manager Application\obj\Debug\Movie_Manager_Application.addMovieForm.resources
