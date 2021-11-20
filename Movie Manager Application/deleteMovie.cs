@@ -16,5 +16,20 @@ namespace Movie_Manager_Application
         {
             InitializeComponent();
         }
+
+        private void closeButton_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void clearButton_Click(object sender, EventArgs e)
+        {
+            movieTitleText.Text = "";
+            yearText.Text = "";
+            directorText.Text = "";
+            genreText.Text = "";
+            rottenTomatoesText.Text = "";
+            boxOfficeText.Text = "";
+        }
     }
 }
