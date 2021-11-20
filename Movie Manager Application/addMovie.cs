@@ -12,6 +12,7 @@ namespace Movie_Manager_Application
 {
     public partial class addMovieForm : Form
     {
+        //add movie
         public addMovieForm()
         {
             InitializeComponent();
