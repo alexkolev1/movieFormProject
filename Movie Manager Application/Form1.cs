@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Movie_Manager_Application
 {
-    public partial class Form1 : Form
+    public partial class movieManagerForm : Form
     {
-        public Form1()
+        public movieManagerForm()
         {
             InitializeComponent();
         }

@@ -1,7 +1,7 @@
 ﻿
 namespace Movie_Manager_Application
 {
-    partial class Form1
+    partial class movieManagerForm
     {
         /// <summary>
         /// Required designer variable.
@@ -78,15 +78,15 @@ namespace Movie_Manager_Application
             this.movieToolStripMenuItem.Text = "About";
             this.movieToolStripMenuItem.Click += new System.EventHandler(this.movieToolStripMenuItem_Click);
             // 
-            // Form1
+            // movieManagerForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "movieManagerForm";
+            this.Text = "Movie Manager Application";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
