@@ -32,6 +32,7 @@ namespace Movie_Manager_Application
             this.deleteMovieLabel = new System.Windows.Forms.Label();
             this.movieTitleLabel = new System.Windows.Forms.Label();
             this.yearLabel = new System.Windows.Forms.Label();
+            this.directorLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // deleteMovieLabel
@@ -62,11 +63,21 @@ namespace Movie_Manager_Application
             this.yearLabel.TabIndex = 2;
             this.yearLabel.Text = "Year:";
             // 
+            // directorLabel
+            // 
+            this.directorLabel.AutoSize = true;
+            this.directorLabel.Location = new System.Drawing.Point(64, 188);
+            this.directorLabel.Name = "directorLabel";
+            this.directorLabel.Size = new System.Drawing.Size(47, 13);
+            this.directorLabel.TabIndex = 3;
+            this.directorLabel.Text = "Director:";
+            // 
             // deleteMovieForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.directorLabel);
             this.Controls.Add(this.yearLabel);
             this.Controls.Add(this.movieTitleLabel);
             this.Controls.Add(this.deleteMovieLabel);
@@ -82,5 +93,6 @@ namespace Movie_Manager_Application
         private System.Windows.Forms.Label deleteMovieLabel;
         private System.Windows.Forms.Label movieTitleLabel;
         private System.Windows.Forms.Label yearLabel;
+        private System.Windows.Forms.Label directorLabel;
     }
 }
